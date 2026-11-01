@@ -1,4 +1,4 @@
-# aihot-news
+# AIHOT
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,76 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-aihot-news is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://aihot.news/
+AIHOT aggregates AI industry news, providing daily curated newsletters and real-time updates from over 900 sources. The platform offers free, read‑only access to its API, RSS feeds, and MCP endpoints without requiring registration or API keys. It supports non‑commercial, nonprofit, and internal organizational use, while commercial usage requires prior authorization. Operated by Beijing Xushi Kongji Cultural Technology Co., Ltd., AIHOT aims to deliver timely AI insights while respecting source copyrights and user privacy.
+
+**Areas:** Company
+
+## AIHOT on APIs.io
+
+Everything profiled for AIHOT is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/aihot-news/](https://apis.io/providers/aihot-news/)** — or go straight to one of the APIs or properties below.
+
+### APIs (8)
+
+- [AIHOT Agent API](https://apis.io/apis/aihot-news/aihot-news-agent-api/) — The Agent API from AIHOT — 11 operation(s) for agent.
+- [AIHOT Dailies API](https://apis.io/apis/aihot-news/aihot-news-dailies-api/) — The Dailies API from AIHOT — 3 operation(s) for dailies.
+- [AIHOT Hot Topics API](https://apis.io/apis/aihot-news/aihot-news-hot-topics-api/) — The Hot Topics API from AIHOT — 1 operation(s) for hot topics.
+- [AIHOT Items API](https://apis.io/apis/aihot-news/aihot-news-items-api/) — The Items API from AIHOT — 1 operation(s) for items.
+- [AIHOT Monthlies API](https://apis.io/apis/aihot-news/aihot-news-monthlies-api/) — The Monthlies API from AIHOT — 3 operation(s) for monthlies.
+- [AIHOT Selected API](https://apis.io/apis/aihot-news/aihot-news-selected-api/) — The Selected API from AIHOT — 2 operation(s) for selected.
+- [AIHOT Stories API](https://apis.io/apis/aihot-news/aihot-news-stories-api/) — The Stories API from AIHOT — 1 operation(s) for stories.
+- [AIHOT Weeklies API](https://apis.io/apis/aihot-news/aihot-news-weeklies-api/) — The Weeklies API from AIHOT — 3 operation(s) for weeklies.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Aihot News Agentic Access](https://apis.io/agentic-access/aihot-news/aihot-news-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Aihot News Context](https://apis.io/jsonld/aihot-news/aihot-news-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [AIHOT API Rules](https://apis.io/rules/aihot-news/aihot-news-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Aihot News Domain Security](https://apis.io/security/aihot-news/aihot-news-domain-security/)
+- [Aihot News Vulnerability Disclosure](https://apis.io/security/aihot-news/aihot-news-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://aihot.news/)
+- [API reference](https://aihot.news/llms.txt)
+- [Changelog](https://aihot.news/changelog)
+- [Terms of service](https://aihot.news/terms)
+- [Privacy policy](https://aihot.news/privacy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/aihot-news/](https://apis.io/providers/aihot-news/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for AIHOT: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/aihot-news/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).

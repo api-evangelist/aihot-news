@@ -91,7 +91,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Aihot News Agentic Access](https://apis.io/agentic-access/aihot-news/aihot-news-agentic-access/)
+- [AIHOT Agentic Access](https://apis.io/agentic-access/aihot-news/aihot-news-agentic-access/)
 
 #### JSON-LD (1)
 
@@ -109,8 +109,8 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aihot News Domain Security](https://apis.io/security/aihot-news/aihot-news-domain-security/)
-- [Aihot News Vulnerability Disclosure](https://apis.io/security/aihot-news/aihot-news-vulnerability-disclosure/)
+- [AIHOT Domain Security](https://apis.io/security/aihot-news/aihot-news-domain-security/)
+- [AIHOT Vulnerability Disclosure](https://apis.io/security/aihot-news/aihot-news-vulnerability-disclosure/)
 
 ## Where to find this API
 
@@ -124,7 +124,50 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/aihot-news/](https://apis.io/providers/aihot-news/).
+**Kin Score 40.8** — developing · rubric 0.28.1 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 50.5 |
+| Contract governance | 22.0 |
+| Operational transparency | 23.8 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 65.2 |
+
+**Agent readiness 35.0** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | na |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | na |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | na |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | partial |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/aihot-news/](https://apis.io/providers/aihot-news/).
 
 ## How this profile is made
 
